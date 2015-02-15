@@ -5,3 +5,4 @@ Le 15/02 à midi :
 
 Quelques minutes plus tard ... :
     * J'ai développé le côté back en php
+    * J'ai ensuite initalisé une base de donnée SQLite
